@@ -22,7 +22,9 @@ public class Ejercicio03 {
         int var4 = 20;
         int var5 = 1;
         int var6 = 11;
+        
         // System.out.println(Math.pow(var1, var2)sqrt(var3) + var4 DIV(var5 + var6);
+        
         double valor = Math.pow(var1, var2) + Math.sqrt(var3) + var4 / (var5 + var6);
         System.out.println(valor);
         
